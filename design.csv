@@ -1,0 +1,5 @@
+sample_id,tcell_state,donor
+s1,resting,d1
+s2,activated,d1
+s3,resting,d2
+s4,activated,d2
